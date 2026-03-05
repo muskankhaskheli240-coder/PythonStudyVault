@@ -1,0 +1,5 @@
+print("Hello World")
+print("MY NAME IS MUSKAN")
+print("From 2nd year BSIT")
+print("Subject Data Structure and Algorithm")
+print("TEACHER : Miss Hina")
